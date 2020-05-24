@@ -1,9 +1,11 @@
-restaurant menus from https://www.kaggle.com/nypl/whats-on-the-menu?select=Dish.csv
+##Food Explorer
 
-dataset has 45k menus
+45k restaurant menus from http://menus.nypl.org/
 
-receipes from https://www.kaggle.com/c/whats-cooking
-
-dataset has 39774 receipes
+40k receipes from https://www.kaggle.com/c/whats-cooking
 
 wordcloud is created with rows that include searchterm
+
+TODO:
+Find more up-to-date menus
+make an online app to explore

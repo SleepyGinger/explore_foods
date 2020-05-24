@@ -1,8 +1,9 @@
-data set is from https://www.kaggle.com/c/whats-cooking
+restaurant menus from https://www.kaggle.com/nypl/whats-on-the-menu?select=Dish.csv
 
-data is 39774 receipes
+dataset has 45k menus
 
-word_cloud is created by only using receipes that include searched term
+receipes from https://www.kaggle.com/c/whats-cooking
 
-to_do:
-use a dataset of current resaurants
+dataset has 39774 receipes
+
+wordcloud is created with rows that include searchterm

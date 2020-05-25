@@ -1,8 +1,11 @@
-##Food Explorer
+##Food Explorer##
+
+400k restaurant menu items from https://data.world/datafiniti/vegetarian-vegan-restaurants
+(not just vegetarian)
 
 45k restaurant menus from http://menus.nypl.org/
 
-40k receipes from https://www.kaggle.com/c/whats-cooking
+400k receipes from https://www.kaggle.com/c/whats-cooking
 
 wordcloud is created with rows that include searchterm
 

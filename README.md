@@ -13,3 +13,6 @@ TODO:
 Find more up-to-date menus
 make an online app to explore
 yummly and zomato
+
+Menu aggregator company:
+https://datassential.com/menutrends/
